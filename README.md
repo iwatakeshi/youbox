@@ -1,6 +1,8 @@
 # youbox
 A minimal clone of YouTube using Vue.js, YouTube API, and Bulma.
 
+![youbox](youbox.png "youbox")
+
 ## Usage
 
 You'll need an API key from Youtube. Once you have the key, create a `.env` file and add the key as the following:

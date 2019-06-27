@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <div class="box">
+  <div class="video-detail">
+    <div class="box" style="width: 75%;">
       <div class="media-content" ref="videodetail">
         <div class="container">
           <div class="video-container">
@@ -83,7 +83,14 @@ export default Vue.extend({
 </script>
 
 
-<style>
+<style lang="css">
+
+.video-detail {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .video-container {
   position: relative;
   padding-bottom: 56.25%;

@@ -1,6 +1,6 @@
 <template>
   <div id="video-list-item" style="margin-bottom: 20px;">
-    <div class="columns" v-show="video.snippet">
+    <div class="columns is-fullhd" v-show="video.snippet">
       <figure class="column is-one-quarter">
         <a @click="onClick(video)">
           <img
