@@ -1,4 +1,7 @@
 # youbox
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/iwatakeshi/youbox.svg)](https://greenkeeper.io/)
+
 A minimal clone of YouTube using Vue.js, YouTube API, and Bulma.
 
 ![youbox](youbox.png "youbox")
